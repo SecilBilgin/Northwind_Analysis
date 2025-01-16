@@ -18,7 +18,6 @@ Gerçekleştirdiğim bu analizde, ürünlerin ortalama satış fiyatının 20-50
 Ayrıca, ortalamanın üzerindeki fiyatlardan satışa çıkan ürünler ve satış miktarlarıyla alakalı esneklikler göz önüne alınabilir.
 
 
-
 ---
 
 ## 2. Kategori ve Fiyat Aralığı Performansı
@@ -32,7 +31,7 @@ Bu grafikte ürün kategorilerine göre farklı fiyat aralıklarındaki toplam s
 - İçecek kategorisi haricinde 20 ila 50 dolar arası ürünler çoğunlukta. 
 - Bu ürünlere odaklanılarak büyümeye devam edilebilir.
 
-![Kategori Satış Miktarı](Görseller/northwind6.png)
+![Kategori Satış Miktarı](Görseller/north6.png)
 
 ---
 
@@ -43,7 +42,7 @@ Bu grafikte, ürün kategorilerine göre farklı fiyat aralıklarındaki toplam 
 - 50 dolar üstü sipariş sayılarındaki miktarların düşük olduğu görülüyor. 
 - Rakip firmaların nasıl bir strateji izlediği araştırılabilir. Ayrıca et kategorisine de odaklanılması gerekebilir.
 
-![Kategori Sipariş Sayısı](Görseller/northwind7.png)
+![Kategori Sipariş Sayısı](Görseller/north7.png)
 
 ---
 
@@ -52,7 +51,7 @@ Bu grafikte, ürün kategorilerine göre farklı fiyat aralıklarındaki toplam 
 Hazırladığım pasta grafiği, farklı ürün kategorilerinin toplam satış miktarlarını, fiyat aralıklarından bağımsız olarak göstermektedir.
 - Grafikte, tahıllar, taze ürünler, baharat ve sosların diğer kategorilere göre daha düşük satış hacimlerine sahip olduğu açıkça görülmektedir.
 
-![Pasta Grafiği](Görseller/northwind8.png)
+![Pasta Grafiği](Görseller/north8.png)
 
 ---
 
@@ -66,7 +65,7 @@ Her ürünün birim fiyatını, aynı kategorideki ürünlerin ortalama birim fi
 - İçecek kategorisi, en yüksek birim fiyata sahip olan kategori olarak dikkat çekiyor. 
 - Bu kategoriye ait ürünler, diğer kategorilere kıyasla belirgin şekilde yüksek fiyatlarla listeleniyor.
 
-![Birim Fiyatlar](Görseller/northwind9.png)
+![Birim Fiyatlar](Görseller/north9.png)
 
 ---
 
@@ -76,4 +75,4 @@ Bu grafikte, her ürünün birim fiyatı, aynı kategorideki ürünlerin ortalam
 - Özellikle **Tatlılar** ve **Deniz Ürünleri** kategorileri, ortalamanın biraz üzerinde yer alıyor. 
 - **Baharat ve Soslar** kategorisinde ise ortalamanın altında fiyatlandırılmış ürünler, daha rekabetçi bir strateji izlendiğine işaret ediyor.
 
-![Birim Fiyat Karşılaştırması](Görseller/northwind10.png)
+![Birim Fiyat Karşılaştırması](Görseller/north10.png)
