@@ -1,7 +1,7 @@
-# Northwind_Analysis
+# 🚢 Northwind_Analysis
 Bu proje, Northwind veritabanını kullanarak SQL, Python ve Power BI ile analizler yapmayı kapsamaktadır.
 
-**Genel Tanıtım:**
+** 📋 Genel Tanıtım:**
 Northwind şirketine genel bir bakış sağlayan bu görselde satış performansı, müşteri ilişkileri ve lojistik süreçlerin genel bir özetini görebilirsiniz.
 
 ![North1](Görseller/north1.png)
